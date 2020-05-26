@@ -2,7 +2,7 @@
 
 ## Description
 
-Basic Html Site that uses key detection to make fun neat sutff appear.
+Basic Html Site that uses key detection to make fun neat stuff appear.
 
 | Technologies used:    |
 | --------------------- |
